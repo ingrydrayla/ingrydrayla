@@ -3,11 +3,11 @@
 - 💬 Estudando Sistemas de Informação
 - ⚡ UAST - UFRPE
 - 📫 Contate-me no email: raylaingryd@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ingrydrayla&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=ingrydrayla&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
