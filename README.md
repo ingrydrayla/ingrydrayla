@@ -47,7 +47,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ingrydrayla/ingrydrayla/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ingrydrayla/ingrydrayla/output/github-contribution-grid-snake.svg">
 </picture>
-  ##
+
  
 </a>
 <h3 align="left">Connect with me!</h3>
