@@ -1,57 +1,161 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+
+# 💜 Olá, eu sou Ingryd Rayla!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvimento+%26+Tecnologia;Front-End+%7C+Python+%7C+Java;Sempre+aprendendo+algo+novo+%E2%9C%A8" alt="Typing SVG" />
+
+<br>
+
+<p>
+  <a href="https://github.com/ingrydrayla">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
 </div>
 
-## Eu sou Ingryd Rayla
+---
 
-- 💬 Estudando Sistemas de Informação
-- ⚡ UAST - UFRPE
-- Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+## 👩‍💻 Sobre mim
 
-<div style="text-align: center;" align="center">
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ingrydrayla&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=17&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+🎓 Sou estudante de **Sistemas de Informação na UAST/UFRPE**.
 
-  <a href="https://github.com/mari4souza/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ingrydrayla&line_height=17&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
+💻 Tenho interesse em **desenvolvimento de software, Front-End, programação e tecnologia**.
+
+🧩 Gosto de transformar ideias em projetos e aprender na prática por meio de desafios acadêmicos e pessoais.
+
+🚀 Estou constantemente buscando aprimorar meus conhecimentos, explorar novas tecnologias e desenvolver soluções criativas.
+
+🔬 Também tenho experiência com projetos envolvendo **cultura maker, prototipação, fabricação digital e divulgação científica**.
+
+> ✨ Acredito que aprender tecnologia é também aprender a criar, experimentar e resolver problemas.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+### 💻 Linguagens
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" alt="C#"/>
+
 </div>
 
+### 🌐 Desenvolvimento Web
 
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+
+</div>
+
+### 🔧 Ferramentas
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" alt="Flutter"/>
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+* Desenvolvimento de Software
+* Estruturas de Dados e Algoritmos
+* Banco de Dados
+* Engenharia de Software
+* Sistemas Distribuídos
+* Desenvolvimento Web
+* Git e GitHub
+
+---
+
+## 🚀 Projetos
+
+### 🗳️ Projeto FBD — Dados Eleitorais
+
+Projeto acadêmico desenvolvido para análise de dados públicos do **Tribunal Superior Eleitoral (TSE)**.
+
+**Tema:** Patrimônio, Financiamento e Sucesso Eleitoral
+
+Tecnologias e conceitos:
+
+`Python` `Pandas` `SQL` `Banco de Dados` `Dados Abertos`
+
+---
+
+### 🚗 Fluxo de Veículos
+
+Projeto de análise e processamento de dados de fluxo de veículos, utilizando dados públicos e técnicas de manipulação de dados.
+
+**Tecnologias:**
+
+`Python` `Pandas` `CSV` `Análise de Dados`
+
+---
+
+### 🌐 Projetos Front-End
+
+Projetos desenvolvidos durante estudos e cursos de desenvolvimento web, explorando estrutura, estilização e interatividade de páginas.
+
+**Tecnologias:**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 🤖 Projetos Maker
+
+Experiências envolvendo **programação, eletrônica, prototipação e fabricação digital**, utilizando ferramentas e tecnologias como:
+
+`Arduino` `Makey Makey` `Tinkercad` `Impressão 3D` `Corte a Laser`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingrydrayla&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydrayla&layout=compact&langs_count=8&theme=radical"/>
+
+</div>
+
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
 
 <picture>
-  //<source
-    //srcset="https://github-readme-stats.vercel.app/api?username=ingrydrayla&show_icons=true&theme=purple"
-    media="(prefers-color-scheme: )"
-  />
-  //<source
-    //srcset="https://github-readme-stats.vercel.app/api?username=ingrydrayla&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"//
-  />
-  <//img src="https://github-readme-stats.vercel.app/api?username=ingrydrayla&show_icons=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingrydrayla/ingrydrayla/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ingrydrayla/ingrydrayla/output/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/ingrydrayla/ingrydrayla/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rah-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingrydrayla/ingrydrayla/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ingrydrayla/ingrydrayla/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ingrydrayla/ingrydrayla/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
- 
-</a>
-<h3 align="left">Connect with me!</h3>
-  <a href="https://instagram.com/raylaingryd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:raylaingryd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ingryd-rayla-503619348/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div align="center">
+
+### 💜 Obrigada por visitar meu perfil!
+
+*"A tecnologia é uma ferramenta para transformar ideias em possibilidades."*
+
 </div>
