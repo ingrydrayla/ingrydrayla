@@ -1,17 +1,14 @@
 <div align="center">
 
-# Olá, eu sou Ingryd Rayla!
+<h1>Olá, eu sou Ingryd Rayla!</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvimento+%26+Tecnologia;Front-End+%7C+Python+%7C+Java;Sempre+aprendendo+algo+novo" alt="Typing SVG">
 
-<p>
+<br>
+
 <a href="https://github.com/ingrydrayla">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</p>
 
 </div>
 
@@ -38,28 +35,33 @@ Também tenho experiência com projetos envolvendo **cultura maker, prototipaç�
 ### Linguagens
 
 <div align="center">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" alt="C#">
+
 </div>
 
 ### Desenvolvimento Web
 
 <div align="center">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript">
+
 </div>
 
 ### Ferramentas
 
 <div align="center">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" alt="Flutter">
+
 </div>
 
 ---
@@ -92,7 +94,7 @@ Projeto acadêmico desenvolvido para análise de dados públicos do **Tribunal S
 
 ### Fluxo de Veículos
 
-Projeto de análise e processamento de dados de fluxo de veículos, utilizando dados públicos e técnicas de manipulação de dados.
+Projeto de análise e processamento de dados de fluxo de veículos utilizando dados públicos e técnicas de manipulação de dados.
 
 **Tecnologias:**
 
@@ -112,7 +114,9 @@ Projetos desenvolvidos durante estudos e cursos de desenvolvimento web, exploran
 
 ### Projetos Maker
 
-Experiências envolvendo **programação, eletrônica, prototipação e fabricação digital**, utilizando ferramentas e tecnologias como:
+Experiências envolvendo **programação, eletrônica, prototipação e fabricação digital**.
+
+**Tecnologias:**
 
 `Arduino` `Makey Makey` `Tinkercad` `Impressão 3D` `Corte a Laser`
 
@@ -121,29 +125,10 @@ Experiências envolvendo **programação, eletrônica, prototipação e fabrica�
 ## GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingrydrayla&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydrayla&layout=compact&langs_count=8&theme=radical">
-</div>
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ingrydrayla&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
 
-## Minhas contribuições
-
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingrydrayla/ingrydrayla/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ingrydrayla/ingrydrayla/output/github-contribution-grid-snake.svg">
-<img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/ingrydrayla/ingrydrayla/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
----
-
-<div align="center">
-
-### Obrigada por visitar meu perfil!
-
-*"A tecnologia é uma ferramenta para transformar ideias em possibilidades."*
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydrayla&layout=compact&langs_count=8&theme=radical" alt="Top Languages">
 
 </div>
 
@@ -151,8 +136,8 @@ Experiências envolvendo **programação, eletrônica, prototipação e fabrica�
 
 <div align="center">
 
-### 💜 Obrigada por visitar meu perfil!
+<h3>Obrigada por visitar meu perfil!</h3>
 
-*"A tecnologia é uma ferramenta para transformar ideias em possibilidades."*
+<p><i>"A tecnologia é uma ferramenta para transformar ideias em possibilidades."</i></p>
 
 </div>
