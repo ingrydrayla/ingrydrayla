@@ -19,16 +19,12 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## Sobre mim:
 
 🎓 Sou estudante de **Sistemas de Informação na UAST/UFRPE**.
-
-💻 Tenho interesse em **desenvolvimento de software, Front-End, programação e tecnologia**.
-
+💻 Tenho interesse em **desenvolvimento de software e Front-End**.
 🧩 Gosto de transformar ideias em projetos e aprender na prática por meio de desafios acadêmicos e pessoais.
-
 🚀 Estou constantemente buscando aprimorar meus conhecimentos, explorar novas tecnologias e desenvolver soluções criativas.
-
 🔬 Também tenho experiência com projetos envolvendo **cultura maker, prototipação, fabricação digital e divulgação científica**.
 
 > ✨ Acredito que aprender tecnologia é também aprender a criar, experimentar e resolver problemas.
