@@ -126,6 +126,20 @@ Experiências envolvendo **programação, eletrônica, prototipação e fabrica�
 
 ---
 
+## Minhas contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingrydrayla/ingrydrayla/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ingrydrayla/ingrydrayla/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/ingrydrayla/ingrydrayla/output/github-contribution-grid-snake.svg" alt="Animação das contribuições do GitHub">
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 <h3>Obrigada por visitar meu perfil!</h3>
