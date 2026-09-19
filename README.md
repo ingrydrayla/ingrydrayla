@@ -10,6 +10,10 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
+<a href="https://br.linkedin.com/in/ingryd-rayla-503619348">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 </div>
 
 ---
@@ -126,12 +130,21 @@ Experiências envolvendo **programação, eletrônica, prototipação e fabrica�
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ingrydrayla&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ingrydrayla&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&line_height=17&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=561760&icon_color=FF00F6" alt="GitHub Stats">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydrayla&layout=compact&langs_count=8&theme=radical" alt="Top Languages">
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ingrydrayla&layout=compact&langs_count=8&hide_title=false&count_private=true&show_icons=true&title_color=FF00F6&bg_color=000000&text_color=FFFFFF&border_radius=3&border_color=561760" alt="Top Languages">
 
 </div>
 
+---
+
+<div align="center">
+
+<h3>Obrigada por visitar meu perfil!</h3>
+
+<p><i>"A tecnologia é uma ferramenta para transformar ideias em possibilidades."</i></p>
+
+</div>
 ---
 
 <div align="center">
