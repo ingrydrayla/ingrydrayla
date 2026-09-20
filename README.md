@@ -82,50 +82,6 @@ Também tenho experiência com projetos envolvendo **cultura maker, prototipaç�
 
 ---
 
-## Projetos
-
-### Projeto FBD — Dados Eleitorais
-
-Projeto acadêmico desenvolvido para análise de dados públicos do **Tribunal Superior Eleitoral (TSE)**.
-
-**Tema:** Patrimônio, Financiamento e Sucesso Eleitoral
-
-**Tecnologias e conceitos:**
-
-`Python` `Pandas` `SQL` `Banco de Dados` `Dados Abertos`
-
----
-
-### Fluxo de Veículos
-
-Projeto de análise e processamento de dados de fluxo de veículos utilizando dados públicos e técnicas de manipulação de dados.
-
-**Tecnologias:**
-
-`Python` `Pandas` `CSV` `Análise de Dados`
-
----
-
-### Projetos Front-End
-
-Projetos desenvolvidos durante estudos e cursos de desenvolvimento web, explorando estrutura, estilização e interatividade de páginas.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript`
-
----
-
-### Projetos Maker
-
-Experiências envolvendo **programação, eletrônica, prototipação e fabricação digital**.
-
-**Tecnologias:**
-
-`Arduino` `Makey Makey` `Tinkercad` `Impressão 3D` `Corte a Laser`
-
----
-
 ## Minhas contribuições
 
 <div align="center">
